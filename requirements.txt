@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.33
+protobuf==3.20.3
+PySide2==5.15.2.1
+shiboken2==5.15.2.1
